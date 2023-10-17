@@ -1,0 +1,57 @@
+[
+  {
+    "type": "native",
+    "name": "frcCpp",
+    "port": 8349,
+    "target": "172.22.11.2",
+    "launchfile": "C:\\Users\\Robotics\\Desktop\\Program Folders\\DriveCode.cpp\\build\\exe\\frcUserProgram\\release\\frcUserProgram",
+    "gdb": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-gdb.exe",
+    "sysroot": "C:\\Users\\Public\\wpilib\\2023\\roborio",
+    "srcpaths": [
+      "C:\\Users\\Robotics\\Desktop\\Program Folders\\DriveCode.cpp\\src\\main\\cpp",
+      "C:\\Users\\Robotics\\Desktop\\Program Folders\\DriveCode.cpp\\src\\main\\include"
+    ],
+    "headerpaths": [
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\359f7caf420bc9eb6b5838eef6b92108\\transformed\\wpilibNewCommands-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\a26a1a595479c8d33707055c7504193d\\transformed\\PlayingWithFusion-cpp-2023.01.17-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\082d1033ee51bb68b16f013f29dd1c62\\transformed\\PlayingWithFusion-driver-2023.01.17-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\e9deda94166f3515c24703ca02f81aff\\transformed\\REVLib-cpp-2023.1.3-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\dde24ef396648398cef6d4991dcc68f6\\transformed\\REVLib-driver-2023.1.3-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\7fb9e9ae97ba683fd6adb1e3b8f00ccb\\transformed\\wpiapi-cpp-5.30.4-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\df70b80c3a9ef2b016c4c98018355b0c\\transformed\\api-cpp-5.30.4-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\89ccdcd05ff502af3a5b7fcd2f57f593\\transformed\\cci-5.30.4-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\932a562d2c22731630614043f8fb990b\\transformed\\tools-23.0.5-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\bc1028255e2e3273ec528b2af3d23aec\\transformed\\wpilibc-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\be33c4a1aa46a938b80735bac57071b2\\transformed\\ntcore-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\e3c69062523517e3dc2b8a78fdc6039e\\transformed\\hal-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\bb76ba558ba7690e9d6a45357082bbaf\\transformed\\wpimath-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\3bc3005024a851184a2d7d926475a6d8\\transformed\\wpinet-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\d8a6909b3dd030e3dff574203c10dcae\\transformed\\wpiutil-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\40b6932e1948022ce64bd70754e9b7af\\transformed\\netcomm-2023.3.0-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\fda6004368f573f0bb01c8d032e124d6\\transformed\\chipobject-2023.3.0-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\106179155980090ad82f3cd087e8169f\\transformed\\visa-2023.3.0-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\e54696bbecadaf7fe8b85d9084d513d7\\transformed\\cameraserver-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\2e874a4172d0c180370544cd9b525bc7\\transformed\\cscore-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\3b8ef4ba20d8bd1f2985d43d0131d35d\\transformed\\apriltag-cpp-2023.3.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\df671bd4df6e387749e196b4a45e4b30\\transformed\\opencv-cpp-4.6.0-4-headers",
+      "C:\\Users\\Robotics\\Desktop\\Program Folders\\DriveCode.cpp\\src\\main\\include"
+    ],
+    "libpaths": [
+      "C:\\Users\\Robotics\\Desktop\\Program Folders\\DriveCode.cpp\\build\\install\\frcUserProgram\\release\\lib",
+      "C:\\Users\\Robotics\\Desktop\\Program Folders\\DriveCode.cpp\\build\\install\\frcUserProgram\\release"
+    ],
+    "libsrcpaths": [
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\9d42911418caa975a26ab88b8177cdc0\\transformed\\wpilibNewCommands-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\1aacbadf2d8e3a4339a42fc28b00c7b1\\transformed\\wpilibc-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\974973f0c5c74431b7801b1ebfc6e455\\transformed\\ntcore-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\291db80e74dacda0c9646333e5c72b3b\\transformed\\hal-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\bb3550e4400bbc4a66de41ee40315eb8\\transformed\\wpimath-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\5e977c951fec7b666859cbf303f89a18\\transformed\\wpinet-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\051d50276c880ccdbc4d34ecaf952cba\\transformed\\wpiutil-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\39f36cc4287e285a0d6755c797c1a936\\transformed\\cameraserver-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\cf7b74686efff1eb2c3f74ec748e46db\\transformed\\cscore-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\76e36734fbde8c797829d6a34ee56542\\transformed\\apriltag-cpp-2023.3.2-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\8bdde3cad4f576671c3f561f5265dd22\\transformed\\opencv-cpp-4.6.0-4-sources"
+    ]
+  }
+]
