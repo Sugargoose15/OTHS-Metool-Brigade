@@ -40,7 +40,8 @@ void Robot::AutonomousInit() {
     // Custom Auto goes here
   } else {
     // Default Auto goes here
-    
+    //Hello World
+  
   }
 }
 
